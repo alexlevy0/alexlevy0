@@ -12,5 +12,5 @@ Building applications at 📈 [WavyFrance](https://wavy.co)
 📫 How to reach me:  
 📷 https://instagram.com/alexlevy0  
 🐦 https://twitter.com/alexlevy0  
-💼 https://www.linkedin.com/in/alexandrelevy0/
+💼 https://www.linkedin.com/in/alexlevy0/
 

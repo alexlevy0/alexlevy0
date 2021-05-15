@@ -7,7 +7,7 @@
 
 
 ### 👨💻 Current work:
-Building applications at 📈 [WavyFrance](https://wavy.co)
+Building apps
 
 📫 How to reach me:  
 📷 https://instagram.com/alexlevy0  

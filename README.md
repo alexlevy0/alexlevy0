@@ -1,13 +1,14 @@
-# Alex LÉVY *(an AI—augmented Soft War Engr.)*
+# Alex LÉVY *: an AI—augmented Soft War Engr.*
 
+> *"It’s not a bug... It’s an undocumented feature!!!"*
 
-## About Me
+## Greetings!
 
-Greetings! I'm Alex Lévy, an AI-augmented tech lead full-stack software engineer with a deep passion for innovation in full-stack, cloud-native application development. 
+👋 Hello! I'm Alex 🧑‍💻, a up-and-comer of code 🧙‍♂️ and a senior full-stack software engineer, with a fiery 🔥 passion for full-stack and cloud-native app development 🌩️🌐, sprinkled with a dash of tech magic 🌟 and a bit of sparkle ✨.
 
-My expertise centers around crafting state-of-the-art cross-platform applications that are scalable, high-performance, and cost-effective, all while maintaining high standards of security and portability. 
-This approach enables me to integrate cutting-edge technologies seamlessly, consistently delivering superior quality in the dynamic and ever-evolving realm of software engineering.
+My forte? Creating state-of-the-art cross-platform apps 📱💻 that scale like a superhero 🦸, cost-effective as a buy-one-get-one-free sale 💸, while maintaining security tighter than Fort Knox 🔐 and portability that could leap over the moon 🌝.
 
+This approach allows me to mix and match cutting-edge tech like a DJ 🎧, consistently dishing out high-quality software in the twisty, turvy world of software engineering 🌍🌀. And there you have it! 🚀🎉🎊
 
 - Email: [alexlevy0@gmail.com](mailto:alexlevy0@gmail.com)
 - LinkedIn: [Alex Lévy](https://www.linkedin.com/in/alexlevy0)
@@ -26,7 +27,7 @@ This approach enables me to integrate cutting-edge technologies seamlessly, cons
 - Node.js / Next.js / Remix
 - REST / GraphQL / Prisma
 - Low-code / Server-less / Mono-repo / Micro-frontends
-- WebXR / WebASM / Web3 / GenAI / ...
+- WebXR / WebASM / Web3 / GenAI
 
 ## Dev Tech that catches my eye
 
@@ -36,27 +37,10 @@ This approach enables me to integrate cutting-edge technologies seamlessly, cons
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexlevy0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlevy0)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alexlevy0)](https://github.com/alexlevy0)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexlevy0)](https://git.io/streak-stats)
-
-
-## Closing Statement
-
-Thank you for taking the time to visit my GitHub profile! I hope you found the information and projects showcased here interesting. As a dedicated software engineer, I am always open to new opportunities and collaborations, so feel free to reach out to me through the provided contact information. Let's create something amazing together!
-
-<em>
-- "It’s not a bug... It’s an undocumented feature!!!"
-</em>
-
-
 ![Metrics](https://metrics.lecoq.io/alexlevy0)
-![alexlevy0's github stats](https://github-readme-stats.vercel.app/api?username=alexlevy0&count_private=true&show_icons=true&theme=dark)
-![alexlevy0's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlevy0&layout=compact&count_private=true&show_icons=true&theme=dark)
+<!-- ![alexlevy0's github stats](https://github-readme-stats.vercel.app/api?username=alexlevy0&count_private=true&show_icons=true&theme=dark)
+![alexlevy0's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlevy0&layout=compact&count_private=true&show_icons=true&theme=dark) -->
+
 
 ## Closing Statement
 

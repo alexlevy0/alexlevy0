@@ -1,10 +1,12 @@
-# Alex Lévy
+# Alex LÉVY *(an AI—augmented Soft War Engr.)*
 
-*AI—augmented TechLead FullStack Software Engr.
 
 ## About Me
 
-*Greetings! I'm Alex Lévy, an AI-augmented tech lead full-stack software engineer with a deep passion for innovation in full-stack, cloud-native application development. My expertise centers around crafting state-of-the-art cross-platform applications that are scalable, high-performance, and cost-effective, all while maintaining high standards of security and portability. This approach enables me to integrate cutting-edge technologies seamlessly, consistently delivering superior quality in the dynamic and ever-evolving realm of software engineering.*
+Greetings! I'm Alex Lévy, an AI-augmented tech lead full-stack software engineer with a deep passion for innovation in full-stack, cloud-native application development. 
+
+My expertise centers around crafting state-of-the-art cross-platform applications that are scalable, high-performance, and cost-effective, all while maintaining high standards of security and portability. 
+This approach enables me to integrate cutting-edge technologies seamlessly, consistently delivering superior quality in the dynamic and ever-evolving realm of software engineering.
 
 
 - Email: [alexlevy0@gmail.com](mailto:alexlevy0@gmail.com)

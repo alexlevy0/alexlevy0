@@ -4,7 +4,7 @@
 
 > [!TIP]
 > 
->👋 I'm Alex, a up-and-comer of code and a senior full-stack software engineer, with a fiery passion for full-stack and cloud-native app development, sprinkled with a dash of tech magic and a bit of sparkle ✨.
+>👋 I'm Alex, a up-and-comer of code and a senior full-stack software engineer, with a fiery passion for full-stack and cloud-native app development, sprinkled with a dash of tech magic and a bit of sparkle.
 >
 >My forte? Creating state-of-the-art cross-platform apps that scale like a superhero, cost-effective as a buy-one-get-one-free sale, while maintaining security tighter than Fort Knox and portability that could leap over the moon.
 >

@@ -1,4 +1,4 @@
-# AI—augmented Soft War Engr.*
+# Alex, an AI—augmented Soft War Engr.*
 
 > *"It’s not a bug... It’s an undocumented feature!!!"*
 

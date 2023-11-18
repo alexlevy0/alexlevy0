@@ -11,7 +11,9 @@
 >This approach allows me to mix and match cutting-edge tech like a DJ 🎧, consistently dishing out high-quality software in the twisty, turvy world of software engineering 🌍🌀. And there you have it! 🚀🎉🎊
 >
 
-## My Personal Tech Dev Stack 2023
+<details>
+
+<summary>My Personal Tech Dev Stack 2023</summary>
 
 | Types | Arsenal |
 | --- | --- |
@@ -29,6 +31,8 @@
 | `WebASM ` | AssemblyScript |
 
 🎉 And there it is, folks! The magic recipe for a year of coding adventures and caffeine-fueled late nights 🌙. Let's make some digital magic! 🧙‍♂️✨
+</details>
+
 
 <details>
 

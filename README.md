@@ -10,12 +10,13 @@ My forte? Creating state-of-the-art cross-platform apps 📱💻 that scale like
 
 This approach allows me to mix and match cutting-edge tech like a DJ 🎧, consistently dishing out high-quality software in the twisty, turvy world of software engineering 🌍🌀. And there you have it! 🚀🎉🎊
 
-- Email: [alexlevy0@gmail.com](mailto:alexlevy0@gmail.com)
-- LinkedIn: [Alex Lévy](https://www.linkedin.com/in/alexlevy0)
-- Twitter: [@alexlevy0](https://twitter.com/alexlevy0)
-
 
 ## My Personal Tech Dev Stack 2023
+
+| 🔮 Behold my arsenal for 2024 🚀 | Dev Tech that catches my eye 👀🔥 |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 - FullStack Dev / Software Arch.
 - Pervasive Cloud Computing Tech.
@@ -29,6 +30,9 @@ This approach allows me to mix and match cutting-edge tech like a DJ 🎧, consi
 - Low-code / Server-less / Mono-repo / Micro-frontends
 - WebXR / WebASM / Web3 / GenAI
 
+And there you have it, the tech that's turning my gears in 2023! Let's see where this digital journey takes us! 🚀🌌
+🎉 And there it is, folks! The magic recipe for a year of coding adventures and caffeine-fueled late nights 🌙. Let's make some digital magic! 🧙‍♂️✨
+
 ## Dev Tech that catches my eye
 
 - ...TODO
@@ -40,6 +44,10 @@ This approach allows me to mix and match cutting-edge tech like a DJ 🎧, consi
 ![Metrics](https://metrics.lecoq.io/alexlevy0)
 <!-- ![alexlevy0's github stats](https://github-readme-stats.vercel.app/api?username=alexlevy0&count_private=true&show_icons=true&theme=dark)
 ![alexlevy0's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlevy0&layout=compact&count_private=true&show_icons=true&theme=dark) -->
+
+- Email: [alexlevy0@gmail.com](mailto:alexlevy0@gmail.com)
+- LinkedIn: [Alex Lévy](https://www.linkedin.com/in/alexlevy0)
+- Twitter: [@alexlevy0](https://twitter.com/alexlevy0)
 
 
 ## Closing Statement

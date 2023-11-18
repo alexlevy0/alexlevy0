@@ -50,10 +50,6 @@
 - LinkedIn: [Alex Lévy](https://www.linkedin.com/in/alexlevy0)
 - Twitter: [@alexlevy0](https://twitter.com/alexlevy0)
 
-## Closing Statement
-
-Thank you for taking the time to visit my GitHub profile! I hope you found the information and projects showcased here interesting. As a dedicated software engineer, I am always open to new opportunities and collaborations, so feel free to reach out to me through the provided contact information. Let's create something amazing together!
-
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">

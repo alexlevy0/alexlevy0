@@ -52,12 +52,6 @@ console.log(alex.toString());
 
 ![Metrics](https://metrics.lecoq.io/alexlevy0)
 
-## Contact Info
-
-- Email: [alexlevy0@gmail.com](mailto:alexlevy0@gmail.com)
-- LinkedIn: [Alex Lévy](https://www.linkedin.com/in/alexlevy0)
-- Twitter: [@alexlevy0](https://twitter.com/alexlevy0)
-
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">

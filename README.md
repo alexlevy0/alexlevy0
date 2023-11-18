@@ -18,15 +18,16 @@ type DevStack = {
   [key: string]: string | string[];
 };
 
-class SoftwareGuy {
+class SoftwareWizard {
   private name = "Alex";
-  private title = "Senior Full-Stack Software Engineer & Code Magician";
+  private title = "Senior Full-Stack Software Engineer & Code Alchemist";
   private devStack2023: DevStack;
 
   constructor() {
     this.devStack2023 = {
-      "Languages & Frameworks": ["TypeScript", "Expo.dev", "Babylon.js", "AssemblyScript"],
-      "AWS Amplify Suite": ["Amplify (Serverless Framework)", "GraphQL powered by AppSync", "DynamoDB", "CloudFormation", "Amplify Studio", "Figma-to-Code - Amplify Form Builder", "Amplify UI", "Amplify Hosting"],
+      "Languages": ["TypeScript", "AssemblyScript"],
+      "App Frameworks": ["Expo.dev", "Babylon.js"],
+      "AWS Amplify": ["GraphQL/AppSync", "Amplify Studio"],
       "Infrastructure & Database": ["DynamoDB", "CloudFormation"],
       "UI & UX": ["Figma-to-Code - Amplify Form Builder", "Amplify UI"]
     };

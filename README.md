@@ -48,42 +48,9 @@ const alex = new SoftwareWizard();
 console.log(alex.toString());
 ```
 
-
-<details>
-
-<summary>Perso Dev Stack 2023</summary>
-
-| Types | Arsenal |
-| --- | --- |
-| `Statically typed lang.` | TypeScript |
-| `App framework` | Expo.dev |
-| `Serverless Framework` | Amplify |
-| `API` | GraphQL powered by AppSync |
-| `Database` | DynamoDB |
-| `Infrastructure-as-Code` | CloudFormation |
-| `Scale and manage` | Amplify Studio |
-| `UI Builder` | Figma-to-Code - Amplify Form Builder |
-| `UI Library` | Amplify UI |
-| `Ship - Hosting - CI/CD` | Amplify Hosting |
-| `WebXR ` | Bablyon.js |
-| `WebASM ` | AssemblyScript |
-
-🎉 And there it is, folks! The magic recipe for a year of coding adventures and caffeine-fueled late nights 🌙. Let's make some digital magic! 🧙‍♂️✨
-</details>
-
-
-<details>
-
-<summary>GitHub Stats</summary>
-
 ## GitHub Stats
 
-
 ![Metrics](https://metrics.lecoq.io/alexlevy0)
-<!-- ![alexlevy0's github stats](https://github-readme-stats.vercel.app/api?username=alexlevy0&count_private=true&show_icons=true&theme=dark)
-![alexlevy0's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlevy0&layout=compact&count_private=true&show_icons=true&theme=dark) -->
-
-</details>
 
 ## Contact Info
 

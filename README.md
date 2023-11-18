@@ -11,9 +11,46 @@
 >This approach allows me to mix and match cutting-edge tech like a DJ 🎧, consistently dishing out high-quality software in the twisty, turvy world of software engineering 🌍🌀. And there you have it! 🚀🎉🎊
 >
 
+---
+---
+```typescript
+type DevStack = {
+  [key: string]: string | string[];
+};
+
+class SoftwareGuy {
+  private name = "Alex";
+  private title = "Senior Full-Stack Software Engineer & Code Magician";
+  private devStack2023: DevStack;
+
+  constructor() {
+    this.devStack2023 = {
+      "Languages & Frameworks": ["TypeScript", "Expo.dev", "Babylon.js", "AssemblyScript"],
+      "AWS Amplify Suite": ["Amplify (Serverless Framework)", "GraphQL powered by AppSync", "DynamoDB", "CloudFormation", "Amplify Studio", "Figma-to-Code - Amplify Form Builder", "Amplify UI", "Amplify Hosting"],
+      "Infrastructure & Database": ["DynamoDB", "CloudFormation"],
+      "UI & UX": ["Figma-to-Code - Amplify Form Builder", "Amplify UI"]
+    };
+  }
+
+  getStackList(): string {
+    return Object.entries(this.devStack2023)
+      .map(([category, tools]) => `${category}: ${Array.isArray(tools) ? tools.join(", ") : tools}`)
+      .join("; ");
+  }
+
+  toString(): string {
+    return `👋 I'm ${this.name}, a ${this.title} with a 2023 stack: ${this.getStackList()}. 🌙 Let's make some digital magic! 🧙‍♂️✨`;
+  }
+}
+
+const alex = new SoftwareWizard();
+console.log(alex.toString());
+```
+
+
 <details>
 
-<summary>Dev Stack 2023</summary>
+<summary>Perso Dev Stack 2023</summary>
 
 | Types | Arsenal |
 | --- | --- |
@@ -39,6 +76,7 @@
 <summary>GitHub Stats</summary>
 
 ## GitHub Stats
+
 
 ![Metrics](https://metrics.lecoq.io/alexlevy0)
 <!-- ![alexlevy0's github stats](https://github-readme-stats.vercel.app/api?username=alexlevy0&count_private=true&show_icons=true&theme=dark)

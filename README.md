@@ -13,7 +13,7 @@
 
 <details>
 
-<summary>My Personal Tech Dev Stack 2023</summary>
+<summary>Dev Stack 2023</summary>
 
 | Types | Arsenal |
 | --- | --- |

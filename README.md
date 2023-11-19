@@ -29,7 +29,7 @@ class SoftwareWizard {
       "App Frameworks": ["Expo.dev", "Babylon.js"],
       "AWS Amplify": ["GraphQL/AppSync", "Amplify Studio"],
       "Infrastructure & Database": ["DynamoDB", "CloudFormation"],
-      "UI & UX": ["Figma-to-Code - Amplify Form Builder", "Amplify UI"]
+      "UI & UX": ["Figma-to-Code", "Amplify Form Builder", "Amplify UI"]
     };
   }
 

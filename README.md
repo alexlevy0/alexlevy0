@@ -48,9 +48,16 @@ const alex = new SoftwareWizard();
 console.log(alex.toString());
 ```
 
+<details>
+<summary>
+  
 ## GitHub Stats
 
+</summary>
+
 ![Metrics](https://metrics.lecoq.io/alexlevy0)
+  
+</details>
 
 
 <div align="center">

@@ -26,11 +26,14 @@ class SoftwareWizard {
   constructor() {
     this.devStack2023 = {
       "Toolkit": ["Bun"],
-      "Languages": ["TypeScript", "WebAssembly", "AssemblyScript"],
-      "App Frameworks": ["Expo.dev", "Babylon.js"],
-      "AWS Amplify": ["GraphQL/AppSync", "Amplify Studio"],
-      "Infrastructure & Database": ["DynamoDB", "CloudFormation"],
-      "UI & UX": ["Figma-to-Code", "Amplify Form Builder", "Amplify UI"]
+      "Languages": ["TypeScript", "WebAssembly (WASI)", "AssemblyScript (WASM)"],
+      "App Frameworks": ["Expo", "Next.js (SSR/SSG/ISR)", "WebXR - Babylon.js"],
+      "Data": ["AWS DataStore/AppSync", "GraphQL"],
+      "Infrastructure (Cloud Native)": ["AWS Amplify Gen 1/2"],
+      "Deploy & hosting": ["Amplify Hosting", "Cloud Sandbox", "Fullstack workflows"],
+      "Database": ["DynamoDB", "Redshift", "Kinesis"],
+      "UI & UX": ["Figma-to-Code", "Amplify Form Builder", "Amplify UI"],
+      "Backend Admin (headless CMS)": ["Amplify Studio"],
     };
   }
 

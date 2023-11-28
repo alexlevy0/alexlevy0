@@ -26,7 +26,7 @@ class SoftwareWizard {
   constructor() {
     this.devStack2023 = {
       "Toolkit": ["Bun"],
-      "Languages": ["TypeScript", "AssemblyScript"],
+      "Languages": ["TypeScript", "WebAssembly", "AssemblyScript"],
       "App Frameworks": ["Expo.dev", "Babylon.js"],
       "AWS Amplify": ["GraphQL/AppSync", "Amplify Studio"],
       "Infrastructure & Database": ["DynamoDB", "CloudFormation"],

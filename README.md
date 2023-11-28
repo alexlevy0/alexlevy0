@@ -34,6 +34,7 @@ class SoftwareWizard {
       "Database": ["DynamoDB", "Redshift", "Kinesis"],
       "UI & UX": ["Figma-to-Code", "Amplify Form Builder", "Amplify UI"],
       "Backend Admin (headless CMS)": ["Amplify Studio"],
+      "IDE Stuff": ["VSCode", "Fira Code iScript", "dprint"]
     };
   }
 

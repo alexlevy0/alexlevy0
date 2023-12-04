@@ -8,7 +8,7 @@
 >
 > What's important to me? Creating state-of-the-art cross-platform apps that not only scale like a superhero, but also have the budget-friendliness of a superhero costume friperie. Efficiency and effectiveness, without breaking the bank.
 >
-> In my toolkit? A blend of security and portability that makes my apps ready to leap in a single bound. This lets me mix and match >cutting-edge tech n' high-quality software like a tech-savvy chef in a digital kitchen.
+> In my toolkit? A blend of security and portability that makes my apps ready to leap in a single bound. This lets me mix and match cutting-edge tech n' high-quality software like a tech-savvy chef in a digital kitchen.
 
 
 ---

@@ -15,42 +15,61 @@
 ---
 ```typescript
 type DevStack = {
-  [key: string]: string | string[];
+  [category: string]: string | string[];
 };
 
 class SoftwareWizard {
-  private name = "Alex";
-  private title = "Senior Full-Stack Software Engineer & Code Alchemist";
+  private name: string = "Alex";
+  private title: string =
+    "Senior Full-Stack Software Engineer & Code Alchemist";
   private devStack2023: DevStack;
 
   constructor() {
     this.devStack2023 = {
-      "Toolkit": ["Bun"],
-      "Languages": ["TypeScript", "WebAssembly (WASI)", "AssemblyScript (WASM)"],
+      Toolkit: "Bun",
+      Languages: ["TypeScript", "WebAssembly (WASI)", "AssemblyScript (WASM)"],
       "App Frameworks": ["Expo", "Next.js (SSR/SSG/ISR)", "WebXR - Babylon.js"],
-      "Data": ["AWS DataStore/AppSync", "GraphQL"],
-      "Infrastructure (Cloud Native)": ["AWS Amplify Gen 1/2"],
-      "Deploy & hosting": ["Amplify Hosting", "Cloud Sandbox", "Fullstack workflows"],
-      "Database": ["DynamoDB", "Redshift", "Kinesis"],
+      Data: ["AWS DataStore/AppSync", "GraphQL"],
+      "Infrastructure (Cloud Native)": "AWS Amplify Gen 1/2",
+      "Deploy & hosting": [
+        "Amplify Hosting",
+        "Cloud Sandbox",
+        "Fullstack workflows",
+      ],
+      Database: ["DynamoDB", "Redshift", "Kinesis"],
       "UI & UX": ["Figma-to-Code", "Amplify Form Builder", "Amplify UI"],
-      "Backend Admin (headless CMS)": ["Amplify Studio"],
-      "IDE Stuff": ["VSCode", "Fira Code iScript", "dprint"]
+      "Backend Admin (headless CMS)": "Amplify Studio",
+      "IDE Stuff": ["VSCode", "Fira Code iScript", "dprint"],
     };
   }
 
+  private formatTools(tools: string | string[]): string {
+    return Array.isArray(tools)
+      ? tools.map((tool) => `  - ${tool}`).join("\n")
+      : `  - ${tools}`;
+  }
+
   getStackList(): string {
-    return Object.entries(this.devStack2023)
-      .map(([category, tools]) => `${category}: ${Array.isArray(tools) ? tools.join(", ") : tools}`)
-      .join("; ");
+    return (
+      Object.entries(this.devStack2023)
+        .map(
+          ([category, tools]) => `\n* ${category}:\n${this.formatTools(tools)}`
+        )
+        .join("") + "\n\n"
+    );
   }
 
   toString(): string {
-    return `👋 I'm ${this.name}, a ${this.title} with a 2023 stack: ${this.getStackList()}. 🌙 Let's make some digital magic! 🧙‍♂️✨`;
+    return `👋 I'm ${this.name}, a ${
+      this.title
+    } with a 2023 stack: ${this.getStackList()} 🌙 Let's make some digital magic! 🧙‍♂️✨`;
   }
 }
 
 const alex = new SoftwareWizard();
 console.log(alex.toString());
+
+
 ```
 
 <details>

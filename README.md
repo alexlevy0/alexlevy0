@@ -3,13 +3,13 @@
 ## Hey there, space cowboy!
 
 > [!TIP]
-> 
->👋 I'm Alex, a up-and-comer of code and a senior full-stack software engineer, with a fiery passion for full-stack and cloud-native app development, sprinkled with a dash of tech magic and a bit of sparkle.
 >
->My forte? Creating state-of-the-art cross-platform apps that scale like a superhero, cost-effective as a buy-one-get-one-free sale, while maintaining security tighter than Fort Knox and portability that could leap over the moon.
+> 👋I'm Alex, a senior full-stack software engineer, with a fiery passion for full-stack and cloud-native app development.
 >
->This approach allows me to mix and match cutting-edge tech like a DJ, consistently dishing out high-quality software in the twisty, turvy world of software engineering. And there you have it!
+> What's important to me? Creating state-of-the-art cross-platform apps that not only scale like a superhero, but also have the >budget-friendliness of a superhero costume friperie. Efficiency and effectiveness, without breaking the bank.
 >
+> In my toolkit? A blend of security and portability that makes my apps ready to leap in a single bound. This lets me mix and match >cutting-edge tech n' high-quality software like a tech-savvy chef in a digital kitchen.
+
 
 ---
 ---

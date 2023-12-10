@@ -4,13 +4,9 @@
 
 > [!TIP]
 >
-> 👋I'm Alex, a senior full-stack software engineer, with a fiery passion for full-stack and cloud-native app development.
+> 👋 I'm Alex, a senior software engineer with a fiery passion for full-stack and cloud-native application development. I love creating state-of-the-art, cross-platform applications using cutting-edge technology.
 >
-> What's important to me? Creating state-of-the-art cross-platform apps that not only scale like a superhero, but also have the budget-friendliness of a superhero costume friperie. Efficiency and effectiveness, without breaking the bank.
->
-> In my toolkit? A blend of security and portability that makes my apps ready to leap in a single bound. This lets me mix and match cutting-edge tech n' high-quality software like a tech-savvy chef in a digital kitchen.
-
----
+> 
 
 ---
 

@@ -1,6 +1,4 @@
-> _"It’s not a bug... It’s an undocumented feature!!!"_
-
-## Hey there, space cowboy!
+>## *_"It’s not a bug... It’s an undocumented feature!!!"_*
 
 > [!TIP]
 >

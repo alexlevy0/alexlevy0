@@ -2,7 +2,7 @@
 
 > [!TIP]
 >
-> 👋 I'm Alex, a senior software engineer with a fiery passion for full-stack and cloud-native application development. I love creating state-of-the-art, cross-platform applications using cutting-edge technology.
+> 👋 I'm Alex, a senior software engineer with a fiery passion for full-stack and **cloud-native** application development. I love creating state-of-the-art, **cross-platform** applications using cutting-edge technology.
 >
 > 
 

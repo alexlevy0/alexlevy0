@@ -60,7 +60,7 @@
 type DevStack = Record<string, string | string[]>;
 
 class SoftwareWizard {
-  private devStack2023: DevStack = {
+  private devStack2024: DevStack = {
     Toolkit: "Bun",
     Languages: ["TypeScript", "WebAssembly (WASI)", "AssemblyScript (WASM)"],
     "App Frameworks": ["Expo", "Next.js (SSR/SSG/ISR)", "WebXR - Babylon.js"],
@@ -85,7 +85,7 @@ class SoftwareWizard {
 
   getStackList(): string {
     return (
-      Object.entries(this.devStack2023)
+      Object.entries(this.devStack2024)
         .map(
           ([category, tools]) => `\n* ${category}:\n${this.formatTools(tools)}`
         )
@@ -94,7 +94,7 @@ class SoftwareWizard {
   }
 
   toString(): string {
-    return `👋 I'm Alex, a Senior Full-Stack Software Engineer & Code Alchemist with a 2023 stack: ${this.getStackList()} 🌙 Let's make some digital magic! 🧙‍♂️✨`;
+    return `👋 I'm Alex, a Senior Full-Stack Software Engineer & Code Alchemist with a 2024 stack: ${this.getStackList()} 🌙 Let's make some digital magic! 🧙‍♂️✨`;
   }
 }
 

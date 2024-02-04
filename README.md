@@ -63,7 +63,7 @@ class SoftwareWizard {
   private devStack2024: DevStack = {
     Toolkit: "Bun",
     Languages: ["TypeScript", "WebAssembly (WASI)", "AssemblyScript (WASM)"],
-    "App Frameworks": ["Expo", "Next.js (SSR/SSG/ISR)", "WebXR - Babylon.js"],
+    "App Frameworks": ["Lens Protocol", "Expo", "Next.js (SSR/SSG/ISR)", "WebXR - Babylon.js"],
     Data: ["AWS DataStore/AppSync", "GraphQL"],
     "Infrastructure (Cloud Native)": "AWS Amplify Gen 1/2",
     "Deploy & hosting": [

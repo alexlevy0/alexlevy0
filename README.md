@@ -57,49 +57,41 @@
 </details>
 
 ```typescript
-type DevStack = Record<string, string | string[]>;
+type DevStack = Record<string, string | string[]>
 
-class SoftwareWizard {
-  private devStack2024: DevStack = {
-    Toolkit: "Bun",
-    Languages: ["TypeScript", "WebAssembly (WASI)", "AssemblyScript (WASM)"],
-    "App Frameworks": ["Lens Protocol", "Expo", "Next.js (SSR/SSG/ISR)", "WebXR - Babylon.js"],
-    Data: ["AWS DataStore/AppSync", "GraphQL"],
-    "Infrastructure (Cloud Native)": "AWS Amplify Gen 1/2",
-    "Deploy & hosting": [
-      "Amplify Hosting",
-      "Cloud Sandbox",
-      "Fullstack workflows",
-    ],
-    Database: ["DynamoDB", "Redshift", "Kinesis"],
-    "UI & UX": ["Figma-to-Code", "Amplify Form Builder", "Amplify UI"],
-    "Backend Admin (headless CMS)": "Amplify Studio",
-    "IDE Stuff": ["VSCode", "Fira Code iScript", "dprint"],
-  };
-
-  private formatTools(tools: string | string[]): string {
-    return Array.isArray(tools)
-      ? tools.map((tool) => `  - ${tool}`).join("\n")
-      : `  - ${tools}`;
-  }
-
-  getStackList(): string {
-    return (
-      Object.entries(this.devStack2024)
-        .map(
-          ([category, tools]) => `\n* ${category}:\n${this.formatTools(tools)}`
-        )
-        .join("") + "\n\n"
-    );
-  }
-
-  toString(): string {
-    return `👋 I'm Alex, a Senior Full-Stack Software Engineer & Code Alchemist with a 2024 stack: ${this.getStackList()} 🌙 Let's make some digital magic! 🧙‍♂️✨`;
-  }
+const devStack2024: DevStack = {
+        Toolkit: "Bun",
+        Languages: ["TypeScript", "WebAssembly (WASI)", "AssemblyScript (WASM)"],
+        "App Frameworks": ["Lens Protocol", "Expo", "Next.js (SSR/SSG/ISR)", "WebXR - Babylon.js"],
+        Data: ["AWS DataStore/AppSync", "GraphQL"],
+        "Infrastructure (Cloud Native)": "AWS Amplify Gen 1/2",
+        "Deploy & hosting": ["Amplify Hosting", "Cloud Sandbox", "Fullstack workflows"],
+        Database: ["DynamoDB", "Redshift", "Kinesis"],
+        "UI & UX": ["Figma-to-Code", "Amplify Form Builder", "Amplify UI"],
+        "Backend Admin (headless CMS)": "Amplify Studio",
+        "IDE Stuff": ["VSCode", "prettier", "dprint"],
 }
 
-const alex = new SoftwareWizard();
-console.log(alex.toString());
+function formatTools(tools: string | string[]): string {
+        return Array.isArray(tools) ? tools.map((tool) => `  - ${tool}`).join("\n") : `  - ${tools}`
+}
+
+function getStackList(stack: DevStack): string {
+        return (
+                Object.entries(stack)
+                        .map(([category, tools]) => `\n* ${category}:\n${formatTools(tools)}`)
+                        .join("") + "\n\n"
+        )
+}
+
+function softwareWizard(stack: DevStack): string {
+        return `👋 I'm Alex, a Senior Full-Stack Software Engineer & Code Alchemist with a 2024 stack: ${this.getStackList(
+                stack,
+        )} 🌙 Let's make some digital magic! 🧙‍♂️✨`
+}
+
+console.log(softwareWizard(devStack2024))
+
 ```
 
 

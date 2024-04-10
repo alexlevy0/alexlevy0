@@ -1,14 +1,10 @@
->## *_"It’s not a bug... It’s an undocumented <ins>feature!!!</ins>"_*
-
-> [!TIP]
->
-> 👋 I'm Alex, a senior software engineer with a fiery passion for full-stack and **cloud-native** application development. I love creating state-of-the-art, **cross-platform** applications using cutting-edge technology.
->
-> 
-
+<h1 align="center">Hi 👋, I'm Alex LÉVY</h1>
+<h3 align="center">Software engineer from France living his best life in a snow globe, shaking things up a bit more each day. 🔮</h3>
+<p></p>
 
 ---
-<details>
+
+<details open>
   <summary> </summary>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"width="40" height="40"/>&nbsp;
@@ -55,6 +51,33 @@
   </p>
 
 </details>
+
+---
+
+
+
+>## *_"It’s not a bug... It’s an undocumented <ins>feature!!!</ins>"_*
+
+> [!TIP]
+>
+> 👋 I'm Alex, a senior software engineer with a fiery passion for full-stack and **cloud-native** application development. I love creating state-of-the-art, **cross-platform** applications using cutting-edge technology.
+>
+> 
+
+---
+
+<p align="left">
+<a href="https://twitter.com/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexlevy0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassim-samad-87903265" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4820441/alex-l%c3%a9vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wass08" height="30" width="40" /></a>
+<a href="https://instagram.com/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wawa.sensei" height="30" width="40" /></a>
+</p>
+
+
+---
+![](https://komarev.com/ghpvc/?username=alexlevy0)
+
+
 
 ```typescript
 type DevStack = Record<string, string | string[]>

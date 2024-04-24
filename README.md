@@ -59,25 +59,12 @@
 
 > [!TIP]
 >
-> 👋 I'm Alex, a senior software engineer with a fiery passion for full-stack and **cloud-native** application development. I love creating state-of-the-art, **cross-platform** applications using cutting-edge technology.
+> 👋 I'm Alex, a software engineer with a fiery passion for full-stack and **cloud-native** app dev. I love creating **cross-platform** applications using cutting-edge technology.
 >
 > 
 
 
 </details>
-<details >
-  <summary> </summary>
-
-<p align="left">
-<a href="https://twitter.com/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexlevy0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassim-samad-87903265" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4820441/alex-l%c3%a9vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wass08" height="30" width="40" /></a>
-<a href="https://instagram.com/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wawa.sensei" height="30" width="40" /></a>
-</p>
-
-
-</details>
-
 
 <details >
   <summary> </summary>
@@ -123,6 +110,20 @@ console.log(softwareWizard(devStack2024))
 
 
 </details>
+
+<details >
+  <summary> </summary>
+
+<p align="left">
+<a href="https://twitter.com/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexlevy0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wassim-samad-87903265" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4820441/alex-l%c3%a9vy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wass08" height="30" width="40" /></a>
+<a href="https://instagram.com/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wawa.sensei" height="30" width="40" /></a>
+</p>
+
+
+</details>
+
 
 
 <div align="center">

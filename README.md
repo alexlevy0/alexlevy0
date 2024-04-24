@@ -2,7 +2,6 @@
 <h3 align="center">Software engineer from France living his best life shaking things up a bit more each day. 🔮</h3>
 <p></p>
 
----
 
 <details open>
   <summary> </summary>
@@ -52,8 +51,8 @@
 
 </details>
 
----
-
+<details >
+  <summary> </summary>
 
 
 >## *_"It’s not a bug... It’s an undocumented <ins>feature!!!</ins>"_*
@@ -64,7 +63,10 @@
 >
 > 
 
----
+
+</details>
+<details >
+  <summary> </summary>
 
 <p align="left">
 <a href="https://twitter.com/alexlevy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexlevy0" height="30" width="40" /></a>
@@ -74,9 +76,11 @@
 </p>
 
 
----
-![](https://komarev.com/ghpvc/?username=alexlevy0)
+</details>
 
+
+<details >
+  <summary> </summary>
 
 
 ```typescript
@@ -117,6 +121,8 @@ console.log(softwareWizard(devStack2024))
 
 ```
 
+
+</details>
 
 
 <div align="center">

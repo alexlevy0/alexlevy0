@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex LÉVY</h1>
-<h3 align="center">Software engineer from France living his best life shaking things up a bit more each day. 🔮</h3>
+<h3 align="center">Software engineer In France living his best life shaking things up a bit more each day. 🔮</h3>
 <p></p>
 
 
